@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Calebe 👋
 
-<!--
-**calebe-sec/calebe-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity and development student focused on:
+- Web Security
+- Linux/NixOS
+- Automation
+- Bug Bounty
+- Python
 
-Here are some ideas to get you started:
+## Technologies
+Python • Linux • NixOS • Git • Bash • Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- SovereignC
+- Brutus.py
+
+## Currently Learning
+- Web Pentesting
+- OWASP Top 10
+- Bug Bounty
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/calebe-ara%C3%BAjo-1a0713335
+Email: Calebe11anos@gmail.com
