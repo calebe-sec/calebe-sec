@@ -13,6 +13,7 @@ Python • Linux • NixOS • Git • Bash • Networking
 ## Featured Projects
 - SovereignC
 - Brutus.py
+- CyberWatch
 
 ## Currently Learning
 - Web Pentesting
