@@ -4,15 +4,13 @@ Cybersecurity and development student focused on:
 - Web Security
 - Linux/NixOS
 - Automation
-- Bug Bounty
+- Bug Bount
 - Python
 
 ## Technologies
-Python • Linux • NixOS • Git • Bash • Networking
+Python • Linux • NixOS • Git • Networking
 
 ## Featured Projects
-- SovereignC
-- Brutus.py
 - CyberWatch
 
 ## Currently Learning
@@ -22,4 +20,4 @@ Python • Linux • NixOS • Git • Bash • Networking
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/calebe-ara%C3%BAjo-1a0713335
-Email: Calebe11anos@gmail.com
+Email: Calebearaujosa@gmail.com
