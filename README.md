@@ -4,7 +4,6 @@ Cybersecurity and development student focused on:
 - Web Security
 - Linux/NixOS
 - Automation
-- Bug Bount
 - Python
 
 ## Technologies
