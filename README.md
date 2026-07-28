@@ -18,7 +18,7 @@ Modular network scanner built from scratch in Python — TCP scanning, banner gr
 - Focused on modular, testable, and extensible code
 
 ###  [TryHackMe Writeups](https://github.com/calebe-sec/tryhackme-writeups)
-A repository documenting not just answers, but the full investigative process — objective, concepts, "How I found it," and key takeaways for each room. Includes study material on the **MITRE ATT&CK** framework and other techniques.
+A repository documenting not just answers, but the full investigative process — objective, concepts, "How I found it," and key takeaways for each room.
 
 ##  Coming Up
 
