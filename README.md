@@ -20,10 +20,6 @@ Modular network scanner built from scratch in Python — TCP scanning, banner gr
 ###  [TryHackMe Writeups](https://github.com/calebe-sec/tryhackme-writeups)
 A repository documenting not just answers, but the full investigative process — objective, concepts, "How I found it," and key takeaways for each room.
 
-##  Coming Up
-
-A log-based intrusion detection tool (`auth.log`/`access.log` parsing, event normalization, a sliding-window detection engine, and MITRE ATT&CK alert mapping) is on the roadmap — planned once I've built solid hands-on knowledge of real SIEM tooling.
-
 ##  Contact
 
 - LinkedIn: [linkedin.com/in/calebe-araújo](https://www.linkedin.com/in/calebe-ara%C3%BAjo-1a0713335)
