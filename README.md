@@ -8,7 +8,7 @@ Cybersecurity and Development student, building my path to a solid foundation in
 
 ##  Technologies
 
-`Python` `Linux` `NixOS` `Git` `Networking` `Nmap` `Sockets/TCP-UDP`
+`Python` `java` `Linux` `NixOS` `Git` `Networking` `Nmap` `Sockets/TCP-UDP` 
 
 ##  Featured Projects
 
