@@ -1,26 +1,109 @@
-# I'm Calebe
+<div align="center">
 
-Cybersecurity and Development student, building my path to a solid foundation in **Blue Team/SOC** fundamentals
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=650&lines=root%40kali%3A~%23+whoami;Blue+Team+%26+SOC+Analyst;Python+%26+Java+Developer;Sempre+aprendendo..." alt="Typing SVG" />
 
-- Linux / NixOS
-- Automation with Python
-- Log analysis & intrusion detection
+<br/>
 
-##  Technologies
+![Profile Views](https://komarev.com/ghpvc/?username=calebe-sec&color=39FF14&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/calebe-sec?color=39FF14&style=flat-square&label=FOLLOWERS&logo=github)
 
-`Python` `java` `Linux` `NixOS` `Git` `Networking` `Nmap` `Sockets/TCP-UDP` 
+</div>
 
-##  Featured Projects
+<br/>
 
-###  [CyberWatch](https://github.com/calebe-sec/CyberWatch)
-Modular network scanner built from scratch in Python — TCP scanning, banner grabbing and service fingerprinting, HTTP enumeration, CVE lookup via the NVD API, and more recently UDP scanning and OS fingerprinting, with TCP and UDP pipelines kept architecturally separate by design.
-- `logging`, `colorama`, and a producer/consumer pattern for performance and readability
-- Focused on modular, testable, and extensible code
+```bash
+$ whoami
+> Calebe | Blue Team & SOC Analyst (em formação)
 
-###  [TryHackMe Writeups](https://github.com/calebe-sec/tryhackme-writeups)
-A repository documenting not just answers, but the full investigative process — objective, concepts, "How I found it," and key takeaways for each room.
+$ cat objetivo.txt
+> Detectar, analisar e responder a ameaças antes que causem dano.
+> Automatizando defesa com Python. Estudando logs, redes e detecção.
 
-##  Contact
+$ location --show
+> Brasil 🇧🇷
+```
 
-- LinkedIn: [linkedin.com/in/calebe-araújo](https://www.linkedin.com/in/calebe-ara%C3%BAjo-1a0713335)
-- Email: Calebearaujosa@gmail.com
+<br/>
+
+### `> stack & ferramentas`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=39FF14)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14)
+![NixOS](https://img.shields.io/badge/NixOS-000000?style=for-the-badge&logo=nixos&logoColor=39FF14)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14)
+
+</div>
+
+<br/>
+
+### `> certificações & plataformas`
+
+<div align="center">
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=39FF14)
+![Security+](https://img.shields.io/badge/CompTIA_Security%2B-Em_Estudo-39FF14?style=for-the-badge&labelColor=000000)
+
+</div>
+
+<br/>
+
+### `> projetos em destaque`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[CyberWatch](https://github.com/calebe-sec/CyberWatch)**
+Scanner de rede modular feito do zero em Python — scan TCP, banner grabbing, fingerprinting de serviços, enumeração HTTP, consulta de CVEs via API do NVD e scan UDP com pipelines separados por design.
+
+</td>
+<td width="50%" valign="top">
+
+**[TryHackMe Writeups](https://github.com/calebe-sec/tryhackme-writeups)**
+Documentação completa do processo investigativo de cada room — objetivo, conceitos, como cheguei na resposta, e principais aprendizados.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[log-analizer](https://github.com/calebe-sec/log-analizer)**
+Ferramenta em Java para análise de logs, voltada à detecção de padrões suspeitos e apoio em investigações de segurança.
+
+</td>
+<td width="50%" valign="top">
+
+Mais projetos e writeups sendo adicionados conforme avanço nos estudos de Blue Team/SOC. 🔎
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### `> estatísticas`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=calebe-sec&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&icon_color=39FF14&title_color=39FF14&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebe-sec&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" width="35%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=calebe-sec&theme=highcontrast&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="60%" />
+
+</div>
+
+<br/>
+
+### `> conecte-se`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/calebe-ara%C3%BAjo-1a0713335)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:Calebearaujosa@gmail.com)
+
+</div>
