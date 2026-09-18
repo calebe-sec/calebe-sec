@@ -52,35 +52,20 @@ $ location --show
 
 ### `> projetos em destaque`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 **[CyberWatch](https://github.com/calebe-sec/CyberWatch)**
 Scanner de rede modular feito do zero em Python — scan TCP, banner grabbing, fingerprinting de serviços, enumeração HTTP, consulta de CVEs via API do NVD e scan UDP com pipelines separados por design.
 
-</td>
-<td width="50%" valign="top">
+**[SovereignC2](https://github.com/calebe-sec/SovereignC2)**
+Framework de Command & Control simplificado, construído para fins educacionais e de pesquisa — explora como agentes se comunicam com um servidor central, modelo de execução baseado em tarefas e arquitetura modular (agent/server/crypto). Ainda incompleto por design, servindo como base de estudo sobre infraestrutura ofensiva a partir de uma perspectiva defensiva.
+
+**[BRUTUS.py](https://github.com/calebe-sec/BRUTUS.py)**
+Ferramenta modular de teste de autenticação — brute-force em HTTP forms e SSH, além de hash cracking (MD5/SHA) offline — com suporte a wordlists externas e execução multi-thread. Desenvolvida para uso ético e autorizado em pentest e prática de red team.
 
 **[TryHackMe Writeups](https://github.com/calebe-sec/tryhackme-writeups)**
 Documentação completa do processo investigativo de cada room — objetivo, conceitos, como cheguei na resposta, e principais aprendizados.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 **[log-analizer](https://github.com/calebe-sec/log-analizer)**
 Ferramenta em Java para análise de logs, voltada à detecção de padrões suspeitos e apoio em investigações de segurança.
-
-</td>
-<td width="50%" valign="top">
-
-Mais projetos e writeups sendo adicionados conforme avanço nos estudos de Blue Team/SOC. 🔎
-
-</td>
-</tr>
-</table>
 
 <br/>
 
