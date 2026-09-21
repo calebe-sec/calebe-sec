@@ -58,7 +58,7 @@ Scanner de rede modular feito do zero em Python — scan TCP, banner grabbing, f
 **[SovereignC2](https://github.com/calebe-sec/SovereignC2)**
 Framework de Command & Control simplificado, construído para fins educacionais e de pesquisa — explora como agentes se comunicam com um servidor central, modelo de execução baseado em tarefas e arquitetura modular (agent/server/crypto). Ainda incompleto por design, servindo como base de estudo sobre infraestrutura ofensiva a partir de uma perspectiva defensiva.
 
-**[BRUTUS.py](https://github.com/calebe-sec/BRUTUS.py)**
+**[BRUTUS](https://github.com/calebe-sec/BRUTUS.py)**
 Ferramenta modular de teste de autenticação — brute-force em HTTP forms e SSH, além de hash cracking (MD5/SHA) offline — com suporte a wordlists externas e execução multi-thread. Desenvolvida para uso ético e autorizado em pentest e prática de red team.
 
 **[TryHackMe Writeups](https://github.com/calebe-sec/tryhackme-writeups)**
