@@ -64,7 +64,7 @@ Ferramenta modular de teste de autenticação — brute-force em HTTP forms e SS
 **[TryHackMe Writeups](https://github.com/calebe-sec/tryhackme-writeups)**
 Documentação completa do processo investigativo de cada room — objetivo, conceitos, como cheguei na resposta, e principais aprendizados.
 
-**[log-analizer](https://github.com/calebe-sec/log-analizer)**
+**[LogRecon](https://github.com/calebe-sec/logRecon)**
 Ferramenta em Java para análise de logs, voltada à detecção de padrões suspeitos e apoio em investigações de segurança.
 
 <br/>
