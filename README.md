@@ -73,8 +73,8 @@ Ferramenta em Java para análise de logs, voltada à detecção de padrões susp
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=calebe-sec&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&icon_color=39FF14&title_color=39FF14&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebe-sec&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" width="35%" />
+<img src="https://github-readme-stats-bay-seven-56.vercel.app/api?username=calebe-sec&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&icon_color=39FF14&title_color=39FF14&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats-bay-seven-56.vercel.app/api/top-langs/?username=calebe-sec&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" width="35%" />
 
 <br/>
 
