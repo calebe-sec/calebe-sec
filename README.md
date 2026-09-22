@@ -78,8 +78,6 @@ Ferramenta em Java para análise de logs, voltada à detecção de padrões susp
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=calebe-sec&theme=highcontrast&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="60%" />
-
 </div>
 
 <br/>
